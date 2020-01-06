@@ -9,6 +9,7 @@
 <div align="center">
   <a href="https://pypi.python.org/pypi/labelme"><img src="https://img.shields.io/pypi/v/labelme.svg"></a>
   <a href="https://pypi.org/project/labelme"><img src="https://img.shields.io/pypi/pyversions/labelme.svg"></a>
+<a href="https://app.fossa.io/projects/git%2Bgithub.com%2Fgranularai%2Flabelme?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgranularai%2Flabelme.svg?type=shield"/></a>
   <a href="https://github.com/wkentaro/labelme/actions"><img src="https://github.com/wkentaro/labelme/workflows/CI/badge.svg"></a>
   <a href="https://hub.docker.com/r/wkentaro/labelme"><img src="https://img.shields.io/docker/build/wkentaro/labelme.svg"></a>
 </div>
@@ -243,3 +244,7 @@ If you use this project in your research or wish to refer to the baseline result
   year =         {2016}
 }
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgranularai%2Flabelme.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgranularai%2Flabelme?ref=badge_large)
